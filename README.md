@@ -7,9 +7,9 @@ In this project, you will find:
 
   - A description of the maze environment and how it was modelled as an MDP.
   - Source code and detailed comparison of various Reinforcement Learning strategies used to solve the maze environment, including 
-        • **Dynamic Programming** (Value iteration vs Policy Iteration) *model based* 
-        • **Monte Carlo** (Every-Visit MC vs First-Visit MC) *model free*
-        • **Temporal Difference** (SARSA on-policy vs Q-Learning off-policy) *model free*
+        • **Dynamic Programming** (Value iteration vs Policy Iteration) 
+        • **Monte Carlo** (Every-Visit MC vs First-Visit MC)
+        • **Temporal Difference** (SARSA on-policy vs Q-Learning off-policy)
   -  Source code used for visualisations and plots.
   -  Final Project Report, attaining a distinction.
 
