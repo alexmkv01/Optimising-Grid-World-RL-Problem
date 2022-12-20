@@ -1,4 +1,4 @@
-# Solving Maze Environment with various Reinforcement Learning Approaches
+# Solving Maze Environment
 Welcome to the Reinforcement Learning module coursework repository!
 
 This project is a demonstration of the application of reinforcement learning techniques to solve a maze environment modelled as a Markov Decision Process (MDP), both with Model-Based and Model-Free methods.
