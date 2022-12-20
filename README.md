@@ -5,11 +5,15 @@ This project is a demonstration of the application of reinforcement learning tec
 
 In this project, you will find:
 
-A description of the maze environment and how it was modeled as an MDP.
-A detailed explanation of the reinforcement learning algorithms and techniques used to solve the maze environment, including dynamic programming (value iteration and policy iteration), Monte-Carlo reinforcement learning (every-visit and first-visit), and temporal difference reinforcement learning (Q-learning and SARSA).
-A comparison of the different reinforcement learning methods, including plots to illustrate the outcomes.
-The source code for the project, including any necessary dependencies and instructions for running the code.
-We hope that this project will serve as a useful reference for those interested in applying reinforcement learning techniques to solve real-world problems. If you have any questions or feedback, please don't hesitate to reach out.
+  - A description of the maze environment and how it was modelled as an MDP.
+  - Source code and detailed comparison of various Reinforcement Learning strategies used to solve the maze environment, including 
+        • **Dynamic Programming** (Value iteration vs Policy Iteration) *model based* 
+        • **Monte Carlo** (Every-Visit MC vs First-Visit MC) *model free*
+        • **Temporal Difference** (SARSA on-policy vs Q-Learning off-policy) *model free*
+  -  Source code used for visualisations and plots.
+  -  Final Project Report, attaining a distinction.
+
+We hope that this project will serve as a useful reference for those interested in applying Reinforcement Learning techniques to solve real-world problems. If you have any questions or feedback, please don't hesitate to reach out.
 
 
 
