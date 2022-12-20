@@ -13,7 +13,7 @@ In this project, you will find:
   -  Source code used for visualisations and plots.
   -  Final Project Report, attaining a distinction.
 
-We hope that this project will serve as a useful reference for those interested in applying Reinforcement Learning techniques to solve real-world problems. If you have any questions or feedback, please don't hesitate to reach out.
+If you have any questions or feedback, please don't hesitate to reach out.
 
 
 
