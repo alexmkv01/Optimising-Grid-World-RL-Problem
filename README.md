@@ -1,2 +1,2 @@
-# Reinforcement_Learning_Coursework_1
-Coursework 1 for Reinforcement Learning module at university.
+# Solving Maze Environment with various Reinforcement Learning Approaches
+Completed as an assessed coursework for a Reinforcement Learning module
