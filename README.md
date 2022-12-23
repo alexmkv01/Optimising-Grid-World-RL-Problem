@@ -46,7 +46,7 @@ We have implemented three agent classes to navigate the maze, with the following
     - Q-learning off-policy
 
 ## Running the Code ##
-To run the code, simply open and run the python file.
+To run the code, simply open and run the python file. The python file also includes code for generating the various plots used for the report.
 
 ## Results ## 
 The results of our experiments can be found in the report included in this repository. We were able to successfully navigate the maze using Dynamic Programming, Monte-Carlo learning, and Temporal-Difference learning. The optimal policy and value function is given below.
